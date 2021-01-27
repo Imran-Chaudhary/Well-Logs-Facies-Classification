@@ -36,3 +36,10 @@ A thorough data cleaning, transformation, data exploration and features engineer
 ![text](https://user-images.githubusercontent.com/68614187/106041196-1bf56400-60a1-11eb-913f-f2f47a7359b5.png)
 
 ![text](https://user-images.githubusercontent.com/68614187/106043439-0a618b80-60a4-11eb-95f6-516152fda865.png)
+
+## Testing Different Classifiers
+
+Different classification models, i.e. Logistic Reggression, Support Vector Machine, KNN, Decision Tree, Random Forest and Gradient Boosting have been tested and compared for the best model selection.
+
+![text](https://user-images.githubusercontent.com/68614187/106046519-fc156e80-60a7-11eb-8127-a499235e042a.png)
+
