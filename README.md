@@ -70,7 +70,7 @@ Curves showing in top left corner exhibit max true positive and minimizing false
 
 ![text](https://user-images.githubusercontent.com/68614187/106051265-db501780-60ad-11eb-8b49-c9157f67dd9d.png)
 
-## Origiona Facies VS Predictions
+## Origional Facies VS Predictions
 
 ![text](https://user-images.githubusercontent.com/68614187/106051516-2702c100-60ae-11eb-9c1d-979f0db51559.png)
 
