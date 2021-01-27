@@ -23,3 +23,16 @@ The data set used came from a University of Kansas class exercise on the Hugoton
 Geologically sometimes the boundaries of the facies are not clear and could show some transition, hence following table list the facies, the abreviated labels and approximately next attacching facies.
 
 ![test](https://user-images.githubusercontent.com/68614187/106040494-29f6b500-60a0-11eb-9688-6d4e8ec10aec.png)
+
+
+## Exploratory Data Analysis
+A thorough data cleaning, transformation, data exploration and features engineering was performed in order to prepare dataset for testing the classifier models.
+
+### Target Variable Distribution
+![text](https://user-images.githubusercontent.com/68614187/106041128-097b2a80-60a1-11eb-98be-0abaa52039cf.png)
+
+### Features Relevancy & Multivariate Analysis
+
+![text](https://user-images.githubusercontent.com/68614187/106041196-1bf56400-60a1-11eb-913f-f2f47a7359b5.png)
+
+![text](https://user-images.githubusercontent.com/68614187/106043439-0a618b80-60a4-11eb-95f6-516152fda865.png)
