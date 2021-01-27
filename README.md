@@ -50,6 +50,10 @@ The diagonal row in confusion metrix represents the true positives, the instance
 ![text](https://user-images.githubusercontent.com/68614187/106048683-cfaf2180-60aa-11eb-9d9c-24656de5adb3.png)
 
 
+### Interpreting the Metrix & Features Importance
 
+Features show the combined effect to predict the log facies. Classification report shows F1 score for individual facies.
+
+![text](https://user-images.githubusercontent.com/68614187/106049884-4567bd00-60ac-11eb-9922-9c69c43cebf0.png)
 
 
