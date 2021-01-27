@@ -43,3 +43,13 @@ Different classification models, i.e. Logistic Reggression, Support Vector Machi
 
 ![text](https://user-images.githubusercontent.com/68614187/106046625-1ea78780-60a8-11eb-933b-bfc60968d734.png)
 
+### Performence of Gradient Boosting Model
+
+The diagonal row in confusion metrix represents the true positives, the instances that were correctly classified, rest of the matrix represents the number of instances that were incorrectly classified. Fi Score shows 0.80, which is pretty good. 
+
+![text](https://user-images.githubusercontent.com/68614187/106048683-cfaf2180-60aa-11eb-9d9c-24656de5adb3.png)
+
+
+
+
+
