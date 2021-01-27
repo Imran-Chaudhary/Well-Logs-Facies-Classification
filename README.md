@@ -52,7 +52,7 @@ The diagonal row in confusion metrix represents the true positives, the instance
 
 ### Interpreting the Metrix & Features Importance
 
-Features show the combined effect to predict the log facies. Classification report shows F1 score for individual facies.
+Features show the combined effect to predict the log facies. Classification report shows F1 score for individual facies. BS is ~ 95% and PS is ~68% 
 
 ![text](https://user-images.githubusercontent.com/68614187/106049815-354fdd80-60ac-11eb-94b4-a738970fec30.png)
 
