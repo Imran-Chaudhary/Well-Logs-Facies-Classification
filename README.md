@@ -39,7 +39,7 @@ A thorough data cleaning, transformation, data exploration and features engineer
 
 ## Testing Different Classifiers
 
-Different classification models, i.e. Logistic Reggression, Support Vector Machine, KNN, Decision Tree, Random Forest and Gradient Boosting have been tested and compared for the best model selection.
+Different classification models, i.e. Logistic Reggression, Support Vector Machine, KNN, Decision Tree, Random Forest and Gradient Boosting have been tested and compared for the best model selection. The'classification report' and an accuracy of~80.7 % shows 'Gradient Boosting' might be the best choice.
 
 ![text](https://user-images.githubusercontent.com/68614187/106046625-1ea78780-60a8-11eb-933b-bfc60968d734.png)
 
