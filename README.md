@@ -58,4 +58,22 @@ Features show the combined effect to predict the log facies. Classification repo
 
 ![text](https://user-images.githubusercontent.com/68614187/106049884-4567bd00-60ac-11eb-9922-9c69c43cebf0.png)
 
+### Precision - Recall Curve
+
+Precision shows that what proportion of positive predictions are correct and recall tells us what proportion of positives are correctly predicted. Curves exhibit the precision and recall range from 60 to almost 100% of the Facies classes.
+
+![text](https://user-images.githubusercontent.com/68614187/106051086-9926d600-60ad-11eb-9410-ae4d1efd4ac5.png)
+
+### ROC - Receiver Operating Characteristic Curve
+
+Curves showing in top left corner exhibit max true positive and minimizing false positive. Results show that curves tend to be in top left corner, however still counting the false positive. 
+
+![text](https://user-images.githubusercontent.com/68614187/106051265-db501780-60ad-11eb-8b49-c9157f67dd9d.png)
+
+
+
+
+
+
+
 
